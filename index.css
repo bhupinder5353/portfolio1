@@ -1,0 +1,149 @@
+.a{
+    margin:0;
+    padding:0;
+    background-color: black;
+    height:1100px;
+    width:100%;
+}
+.b{
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 60px;
+    position:fixed;
+    margin: 0;
+    padding: 0;
+}
+.c{
+    font-size: 25px;
+    margin:15px 0 10px 50px;
+    padding:0;
+    color:black;
+}
+.d{
+    font-size: 25px;
+    color:black;
+    margin:15px 48px 10px 12px;
+}
+.e{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+.f{
+    font-size: 70px;
+    color:white;
+    margin: 0 10px 75px 160px;
+    padding: 0;
+}
+.g{
+    font-size: 40px;
+    color: white;
+    margin: 0 10px 75px 160px;
+    padding: 0;
+}
+.h{
+    height:800px;
+    margin:100px 105px 80px 0;
+}
+.i{
+    position: static;
+}
+h{
+    text-decoration: underline;
+    text-decoration-color: aqua ;
+}
+.q{
+    height: 500px;
+    background-color:black ;
+}
+.j{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.k{
+    color: white;
+    font-size: 45px;
+    margin:35px 150px 20px 0;
+}
+.l{
+    color: white;
+    font-size: 45px;
+    margin:35px 75px 20px 0;
+}
+.m{
+    color: white;
+    font-size: 45px;
+    margin:35px -35px 20px 0;
+}
+.text1{
+    color: white;
+    font-size: 25px;
+    margin:20px 50px 80px 0;
+}
+.text2{
+    color: white;
+    font-size: 25px;
+    margin:20px 50px 80px 0;
+}
+.text3{
+    color: white;
+    font-size: 25px;
+    margin:20px 50px 80px 0;
+}
+.n{
+    display:flex;
+    flex-direction: column;
+    height: 2500px;
+    background-color:black ;
+}
+.o{
+    flex-direction: row;
+    display:flex;
+    color:white;
+}
+.p{
+    font-size: 75px;
+    margin: 50px 10px 75px 160px;
+    padding: 0;
+}
+.r{
+    font-size: 35px;   
+    margin:84px -35px 20px 775px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.s{
+    display: flex;
+    flex-direction: row;
+}
+.sunnyside{
+    height: 350px;
+    width:100%;
+    margin:  0 0 15px 0 ;
+    border-radius: 5px;
+}
+.t{
+    display: flex;
+    flex-direction: column;
+    width:500px;
+    background-color: white;
+    margin: 10px 0 80px 185px ;
+    border-radius: 5px;
+}
+.text4{
+    font-size: 35px;
+    color:black;
+    margin:  0 0 4px 10px;
+}
+.text5{
+    font-size: 25px;
+    color:black;
+    margin:  0 0 15px 10px ;
+}
